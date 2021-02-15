@@ -1,0 +1,4 @@
+[INFO ] 2021-02-10 15:42:42.978 [main] Log4jDemo - it has info about looger
+[ERROR] 2021-02-10 15:42:42.983 [main] Log4jDemo - it displays error message is exist
+[WARN ] 2021-02-10 15:42:42.984 [main] Log4jDemo - it displayes warning messages
+[FATAL] 2021-02-10 15:42:42.984 [main] Log4jDemo - it displays fatal messages
