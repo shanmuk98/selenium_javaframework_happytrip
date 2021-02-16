@@ -89,7 +89,7 @@ public class SignInTest extends BaseTest{
 
 		return new Object[][] {
 
-			{"agra_d"},
+			{"agra_z"},
 
 		};
 	}
@@ -97,7 +97,7 @@ public class SignInTest extends BaseTest{
 	public Object[][] addNewFlight(){
 		return new Object[][] 
 				{
-			{"deccan123"},
+			{"deccan0011"},
 				};
 
 	}

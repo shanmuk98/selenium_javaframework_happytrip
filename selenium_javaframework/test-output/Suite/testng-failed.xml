@@ -4,13 +4,14 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browserName" value="chrome"/>
     <classes>
-      <class name="com.pratian.testclasses.TestAddFlight">
+      <class name="com.pratian.testclasses.AddFlightTest">
         <methods>
           <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="clickAddFlight" invocation-numbers="0"/>
           <include name="setup"/>
-          <include name="addNewFlight"/>
         </methods>
-      </class> <!-- com.pratian.testclasses.TestAddFlight -->
+      </class> <!-- com.pratian.testclasses.AddFlightTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
