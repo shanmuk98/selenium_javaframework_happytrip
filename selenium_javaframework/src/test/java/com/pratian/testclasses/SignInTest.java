@@ -3,6 +3,7 @@ package com.pratian.testclasses;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
@@ -21,6 +22,8 @@ import selenium_javaframework.SignInAdmin;
 
 @Test
 public class SignInTest extends BaseTest{
+
+	
 	@Test(priority = 1)
 	public void signInToHappytrip() throws IOException {
 		driver.get(PropertyManager.getProperty("url.app"));
@@ -89,7 +92,7 @@ public class SignInTest extends BaseTest{
 
 		return new Object[][] {
 
-			{"agra_z"},
+			{"agra_v"},
 
 		};
 	}
@@ -97,7 +100,7 @@ public class SignInTest extends BaseTest{
 	public Object[][] addNewFlight(){
 		return new Object[][] 
 				{
-			{"deccan0011"},
+			{"deccan0015"},
 				};
 
 	}

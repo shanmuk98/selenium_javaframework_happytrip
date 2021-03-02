@@ -1,4 +1,12 @@
-[INFO ] 2021-02-10 15:42:42.978 [main] Log4jDemo - it has info about looger
-[ERROR] 2021-02-10 15:42:42.983 [main] Log4jDemo - it displays error message is exist
-[WARN ] 2021-02-10 15:42:42.984 [main] Log4jDemo - it displayes warning messages
-[FATAL] 2021-02-10 15:42:42.984 [main] Log4jDemo - it displays fatal messages
+[INFO ] 2021-03-01 18:57:35.962 [main] AddFlightTest - testcase add flight started
+[DEBUG] 2021-03-01 18:57:35.994 [main] AddFlightTest - extent report generated
+[INFO ] 2021-03-01 18:57:42.906 [main] AddFlightTest - logged in admin
+[INFO ] 2021-03-01 18:57:43.129 [main] AddFlightTest - username textbox found
+[INFO ] 2021-03-01 18:57:43.227 [main] AddFlightTest - password field found
+[INFO ] 2021-03-01 18:57:43.693 [main] AddFlightTest - submit button found and navigating to home page
+[INFO ] 2021-03-01 18:57:44.933 [main] AddFlightTest - clicked on add flight link
+[INFO ] 2021-03-01 18:57:45.327 [main] AddFlightTest - selected an airlineline
+[INFO ] 2021-03-01 18:57:45.469 [main] AddFlightTest - added a new flight
+[INFO ] 2021-03-01 18:57:45.593 [main] AddFlightTest - checked economic class
+[INFO ] 2021-03-01 18:57:45.692 [main] AddFlightTest - flight seat capacity is specified
+[INFO ] 2021-03-01 18:57:46.571 [main] AddFlightTest - clicked on add button
